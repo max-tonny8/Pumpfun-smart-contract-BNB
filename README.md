@@ -25,22 +25,13 @@ This implementation delivers significant improvements through:
 
 The project maintains active development with ongoing enhancements to core functionality. Future releases will introduce expanded features and further optimization.
 
-## 📞 Contact
 
-| Platform | Link |
-|----------|------|
-| 📱 Telegram | [t.me/novustechllc](https://t.me/novustechllc) |
-| 📲 WhatsApp | [wa.me/14105015750](https://wa.me/14105015750) |
-| 💬 Discord | [discordapp.com/users/985432160498491473](https://discordapp.com/users/985432160498491473)
+# 👤 Author
+### Telegram: [jimmy](https://t.me/jimmy_colla)   
+https://t.me/jimmy_colla
 
-<div align="center">
-    <a href="https://t.me/novustechllc" target="_blank"><img alt="Telegram"
-        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-    <a href="https://wa.me/14105015750" target="_blank"><img alt="WhatsApp"
-        src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-    <a href="https://discordapp.com/users/985432160498491473" target="_blank"><img alt="Discord"
-        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-</div>
+### Twitter: [Jimmy](https://x.com/max_tonny8)   
+https://x.com/max_tonny8
 
 Feel free to reach out for implementation assistance or integration support.
 
